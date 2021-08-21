@@ -1,7 +1,7 @@
 # 20205154 김형선 개인 이력서
 ---
 ## 개인정보
-<img src=증사.jpg height = 170 width = 130..>   
+<img src=증..사.jpg height = 170 width = 130>   
 김형선
 
 ---   
